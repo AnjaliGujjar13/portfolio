@@ -4,7 +4,6 @@ Information Systems graduate with a specialization in Business Data Analytics an
 ### EDUCATION
 Master of Science - Information Systems
 Business Data Analytics | Project Management 
-(January 2023 - December 2024)
 - G.P.A. – 3.9 / 4.0
 
 ### WORK EXPERIENCE
