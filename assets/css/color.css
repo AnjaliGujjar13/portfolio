@@ -1,0 +1,17 @@
+:root 
+{
+  --primary-color: #4CAF50;  
+  --secondary-color: #333333;  
+  --background-color: #f9f9f9;  
+}
+
+body 
+{
+  background-color: var(--background-color);
+  color: var(--secondary-color);
+}
+
+btn-primary
+{
+  background-color: var(--primary-color);
+}
