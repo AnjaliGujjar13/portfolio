@@ -13,7 +13,7 @@ GPA: 3.9 / 4.0
 ## Work Experience
 
 **Graduate Research Assistant | Application Development**  
-*Central Michigan University*  
+**Central Michigan University**  
 *(August 2023 - December 2024)*  
 - Conducted data-driven research to optimize university web applications, utilizing Python, SQL, and Tableau to analyze user behavior and system performance.  
 - Performed data cleaning and preprocessing on large datasets, ensuring accuracy and consistency.  
@@ -27,7 +27,7 @@ GPA: 3.9 / 4.0
 - Assisted in user acceptance testing (UAT), troubleshooting issues, and ensuring smooth transition for new features.
 
 **Co-Founder | Salesforce**  
-*WCY Solutions*  
+**WCY Solutions**    
 *(January2019 - Present)*  
 - Co-founded a tech consulting company specializing in Salesforce-integrated systems, improving business workflows for clients and enhancing operational efficiency by up to 40%.
 - Led a team of 5 developers to design, develop, and implement Salesforce solutions tailored to client needs, managing the full integration lifecycle.
