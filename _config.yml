@@ -3,14 +3,9 @@ logo: /assets/images/AnjaliGujjar.JPG
 description: |
   <strong>Summary:</strong><br>
   Information Systems Graduate Specialized in Business Data Analytics and Project Management.<br>
-  Co-Founded a Tech Solutions at the age of 19.<br>
-  3+ years of experience in Salesforce, Data Analytics, Application Development, and SAP.<br>
-  Certified Salesforce Administrator and Lean Six Sigma Green Belt.<br>
-  Passionate about applying technology to solve business challenges and optimize processes.<br>
-  <ul>
+    <li>3+ years of experience in Salesforce, Data Analytics, Application Development, and SAP</li>
     <li>Salesforce Certified Administrator</li>
     <li>Lean Six Sigma Green Belt</li>
-    <li>Specialized in Business Data Analytics</li>
-    <li>Co-Founder of a Tech Solutions Company</li>
+    <li>Co-Founder of a Tech Solutions Company at the age of 19 !</li>
   </ul>
 theme: jekyll-theme-minimal
