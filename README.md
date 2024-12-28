@@ -92,6 +92,3 @@ American Red Cross
 ## Contact Information
 Feel free to reach out to me via:  
 - [LinkedIn](https://www.linkedin.com/in/anjaligujjar/)
-- [Email me](mailto:anjali.gujjar@gmail.com)
-
-
