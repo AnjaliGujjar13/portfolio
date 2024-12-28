@@ -37,7 +37,8 @@ WCY Solutions
 
 ## Academic Projects
 
-### Application Development | Merchant Transaction Management System
+### Application Development
+### Merchant Transaction Management System
 - Developed a full-stack web application using React, Node.js, and MongoDB to streamline financial transaction tracking and reporting for merchants.
 - Led a team of 6 developers in the design, development, and implementation of the system, resulting in enhanced user interface and back-end functionality.
 
