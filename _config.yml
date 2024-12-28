@@ -8,3 +8,6 @@ description:
     <li>Co-Founded a Tech Solutions Company at the age of 19 !</li>
   </ul>
 theme: jekyll-theme-minimal
+css:
+  - /assets/css/style.css
+
