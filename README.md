@@ -37,15 +37,15 @@ GPA: 3.9 / 4.0
 
 ## Academic Projects
 
-**Application Development**  **Merchant Transaction Management System**
+**Application Development** | **Merchant Transaction Management System**
 - Developed a full-stack web application using React, Node.js, and MongoDB to streamline financial transaction tracking and reporting for merchants.
 - Led a team of 6 developers in the design, development, and implementation of the system, resulting in enhanced user interface and back-end functionality.
 
-**Business Data Analytics**  **Analysis on Goodreads Dataset**
+**Business Data Analytics** | **Analysis on Goodreads Dataset**
 - Utilized Tableau to analyze and visualize large datasets from Goodreads, uncovering insights on publishing trends, author productivity, and reader preferences.
 - Created interactive visualizations (bar charts, line charts, tree maps) to communicate key findings in an easily digestible format.
 
-**Salesforce Administration**   **Unified Business Process Automation**
+**Salesforce Administration** | **Unified Business Process Automation**
 - Automated business processes using Salesforce Flow, Process Builder, and Workflow Rules to reduce manual work, improve data accuracy, and accelerate decision-making.
 - Integrated Salesforce with ERP systems, email marketing tools, and payment platforms, ensuring seamless data flow and boosting operational efficiency.
 
