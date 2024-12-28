@@ -46,18 +46,18 @@ Business Data Analytics | Project Management
 - Integrated Salesforce with third-party applications mainly ERP, email marketing, and payment systems ensuring smooth data flow and improving overall business operations.
 
 # CORE SKILLS
-- **Application Development**:
+**Application Development**:
  SDLC methodologies, SQL, Python, JavaScript, HTML, Microsoft Office Suite
-- **Data Engineering & Analytics**:
+**Data Engineering & Analytics**:
   Data Pipelines, Quality Assurance, ETL, Data Warehousing, Cloud Services, Tableau, Excel, System Design Documentation, UAT, Integration Testing, Quality Assurance
-- **Data Management & Reporting**:
+**Data Management & Reporting**:
   Data Integrity, Data Migration, Deduplication, Reports and Dashboards, KPI’s, Data Visualization tools, Tableau, Power BI, Data administration tools, Process Improvement, Data Audits
-- **Business Analysis & Agile Methodologies**:
+**Business Analysis & Agile Methodologies**:
   Stakeholder Management, Business/ Functional Requirements Gathering, Gap Analysis, User Stories, Sprint Planning, Agile Scrum, Process Mapping, Jira, SaaS
-- **Salesforce Platform**:
+**Salesforce Platform**:
   Salesforce Lightning, Sales Cloud, Service Cloud, Marketing Cloud, Validation Rules, Workflow Rules, User Management, Profiles & Permissions, Security & Compliance, AppExchange 
   integration, Salesforce Automation, CRM
-- **Collaboration & Communication**:
+**Collaboration & Communication**:
   Cross-functional Team Collaboration, Client Relationship Management, Technical Documentation
 
 ### CERTIFICATIONS 
@@ -66,9 +66,9 @@ Business Data Analytics | Project Management
 - SAP ERP Sim
 
 ### VOLUNTEER AND LEADERSHIP
-- **Board Member, Alumni RSO**
+**Board Member, Alumni RSO**
   Central Michigan University 
-- **Cross Club Co-Ordinator**
+  **Cross Club Co-Ordinator**
   American Red Cross 
 
 
