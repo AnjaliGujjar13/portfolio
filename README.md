@@ -4,29 +4,29 @@ Information Systems graduate specialized in Business Data Analytics and Project 
 ---
 
 ## Education
-**Master of Science** – Information Systems  
+**Master of Science – Information Systems**  
 *Specialization:* Business Data Analytics | Project Management  
-**GPA:** 3.9 / 4.0  
+GPA: 3.9 / 4.0  
 
 ---
 
 ## Work Experience
 
-### Graduate Research Assistant | Application Development  
+**Graduate Research Assistant | Application Development** 
 **Central Michigan University**  
 *August2023-December2024*  
 - Conducted data-driven research to optimize university web applications, utilizing Python, SQL, and Tableau to analyze user behavior and system performance.
 - Performed data cleaning and preprocessing on large datasets, ensuring accuracy and consistency.
 - Collaborated with faculty and peers to compile research findings and deliver presentations.
 
-### Business Analyst | SAP  
+**Business Analyst | SAP**
 **Wipro Technologies**  
 *August2021-December2022*  
 - Gathered and documented over 50 business requirements, translating them into actionable solutions, resulting in a 30% increase in operational efficiency.
 - Conducted gap analysis and executed test scripts to improve workflow efficiency and platform functionality.
 - Assisted in user acceptance testing (UAT), troubleshooting issues, and ensuring smooth transition for new features.
 
-### Co-Founder | Salesforce  
+**Co-Founder | Salesforce**
 **WCY Solutions**  
 *January2019-Present*  
 - Co-founded a tech consulting company specializing in Salesforce-integrated systems, improving business workflows for clients and enhancing operational efficiency by up to 40%.
@@ -66,6 +66,7 @@ Information Systems graduate specialized in Business Data Analytics and Project 
 
 **Salesforce Platform:**  
 - Salesforce Lightning, Sales Cloud, Service Cloud, Marketing Cloud, Validation Rules, Workflow Rules, User Management, Profiles & Permissions, Security & Compliance, AppExchange Integration, Salesforce Automation, CRM
+  
 **Collaboration & Communication:**  
 - Cross-functional Team Collaboration, Client Relationship Management, Technical Documentation, Leadership & Mentorship
 
@@ -82,16 +83,14 @@ Information Systems graduate specialized in Business Data Analytics and Project 
 
 **Board Member, Alumni RSO**  
 Central Michigan University  
-- Served as a board member for the Alumni Relations Student Organization, assisting in organizing events and networking opportunities for alumni and students.
 
 **Cross Club Co-Ordinator**  
 American Red Cross  
-- Coordinated cross-club activities and managed volunteer teams to support community events and initiatives.
 
 ---
 
 ## Contact Information
 Feel free to reach out to me via:  
-- [LinkedIn](https://www.linkedin.com/in/anjaligujjar/))  
+- [LinkedIn](https://www.linkedin.com/in/anjaligujjar/)  
 - [Email](anjali.gujjarag13@gmail.com)  
 
