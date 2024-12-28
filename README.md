@@ -13,10 +13,10 @@ GPA: 3.9 / 4.0
 ## Work Experience
 
 **Graduate Research Assistant | Application Development**  
-*Central Michigan University*    
-*(August2023 - December2024)*  
-- Conducted data-driven research to optimize university web applications, utilizing Python, SQL, and Tableau to analyze user behavior and system performance.
-- Performed data cleaning and preprocessing on large datasets, ensuring accuracy and consistency.
+*Central Michigan University*  
+*(August 2023 - December 2024)*  
+- Conducted data-driven research to optimize university web applications, utilizing Python, SQL, and Tableau to analyze user behavior and system performance.  
+- Performed data cleaning and preprocessing on large datasets, ensuring accuracy and consistency.  
 - Collaborated with faculty and peers to compile research findings and deliver presentations.
 
 **Business Analyst | SAP**  
