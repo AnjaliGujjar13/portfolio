@@ -12,22 +12,22 @@ GPA: 3.9 / 4.0
 
 ## Work Experience
 
-**Graduate Research Assistant | Application Development**
-*Central Michigan University*
+**Graduate Research Assistant | Application Development**  
+*Central Michigan University*  
 *(August2023 - December2024)*  
 - Conducted data-driven research to optimize university web applications, utilizing Python, SQL, and Tableau to analyze user behavior and system performance.
 - Performed data cleaning and preprocessing on large datasets, ensuring accuracy and consistency.
 - Collaborated with faculty and peers to compile research findings and deliver presentations.
 
-**Business Analyst | SAP**
-*Wipro Technologies* 
+**Business Analyst | SAP**  
+*Wipro Technologies*  
 *(August2021 - December2022)*  
 - Gathered and documented over 50 business requirements, translating them into actionable solutions, resulting in a 30% increase in operational efficiency.
 - Conducted gap analysis and executed test scripts to improve workflow efficiency and platform functionality.
 - Assisted in user acceptance testing (UAT), troubleshooting issues, and ensuring smooth transition for new features.
 
-**Co-Founder | Salesforce**
-*WCY Solutions*
+**Co-Founder | Salesforce**  
+*WCY Solutions*  
 *(January2019 - Present)*  
 - Co-founded a tech consulting company specializing in Salesforce-integrated systems, improving business workflows for clients and enhancing operational efficiency by up to 40%.
 - Led a team of 5 developers to design, develop, and implement Salesforce solutions tailored to client needs, managing the full integration lifecycle.
