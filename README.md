@@ -2,7 +2,7 @@
 Information Systems graduate with a specialization in Business Data Analytics and Project Management. Certified in Salesforce Administration and Lean Six Sigma Green Belt with over 3 years of experience in Salesforce, Business Data Analytics, Application Development and SAP.
 
 ### EDUCATION
-Master of Science - Information Systems / College of Business Administration
+## Master of Science - Information Systems / College of Business Administration
 Business Data Analytics | Project Management ( January 2023 - December 2024)
 - G.P.A. – 3.9 / 4.0
 
