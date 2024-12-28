@@ -20,7 +20,7 @@ GPA: 3.9 / 4.0
 - Collaborated with faculty and peers to compile research findings and deliver presentations.
 
 **Business Analyst | SAP**  
-*Wipro Technologies*  
+**Wipro Technologies**    
 *(August2021 - December2022)*  
 - Gathered and documented over 50 business requirements, translating them into actionable solutions, resulting in a 30% increase in operational efficiency.
 - Conducted gap analysis and executed test scripts to improve workflow efficiency and platform functionality.
