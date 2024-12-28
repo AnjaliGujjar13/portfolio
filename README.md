@@ -1,8 +1,3 @@
-## Summary
-Information Systems graduate specialized in Business Data Analytics and Project Management, with over 3 years of experience in Salesforce, Data Analytics, Application Development, and SAP. Certified Salesforce Administrator and Lean Six Sigma Green Belt. Passionate about applying technology to solve business challenges and optimize processes.
-
----
-
 ## Education
 **Master of Science – Information Systems**  
 *Business Data Analytics | Project Management*  
