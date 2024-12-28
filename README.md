@@ -13,7 +13,7 @@ GPA: 3.9 / 4.0
 ## Work Experience
 
 **Graduate Research Assistant | Application Development**  
-*Central Michigan University*  
+*Central Michigan University*    
 *(August2023 - December2024)*  
 - Conducted data-driven research to optimize university web applications, utilizing Python, SQL, and Tableau to analyze user behavior and system performance.
 - Performed data cleaning and preprocessing on large datasets, ensuring accuracy and consistency.
@@ -37,17 +37,17 @@ GPA: 3.9 / 4.0
 
 ## Academic Projects
 
-### Application Development
+### Application Development  
 ### Merchant Transaction Management System
 - Developed a full-stack web application using React, Node.js, and MongoDB to streamline financial transaction tracking and reporting for merchants.
 - Led a team of 6 developers in the design, development, and implementation of the system, resulting in enhanced user interface and back-end functionality.
 
-### Business Data Analytics
+### Business Data Analytics  
 ### Analysis on Goodreads Dataset
 - Utilized Tableau to analyze and visualize large datasets from Goodreads, uncovering insights on publishing trends, author productivity, and reader preferences.
 - Created interactive visualizations (bar charts, line charts, tree maps) to communicate key findings in an easily digestible format.
 
-### Salesforce Administration
+### Salesforce Administration  
 ### Unified Business Process Automation
 - Automated business processes using Salesforce Flow, Process Builder, and Workflow Rules to reduce manual work, improve data accuracy, and accelerate decision-making.
 - Integrated Salesforce with ERP systems, email marketing tools, and payment platforms, ensuring seamless data flow and boosting operational efficiency.
