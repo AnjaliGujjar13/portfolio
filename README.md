@@ -37,40 +37,37 @@ GPA: 3.9 / 4.0
 
 ## Academic Projects
 
-### Application Development  
-### Merchant Transaction Management System
+**Application Development**  **Merchant Transaction Management System**
 - Developed a full-stack web application using React, Node.js, and MongoDB to streamline financial transaction tracking and reporting for merchants.
 - Led a team of 6 developers in the design, development, and implementation of the system, resulting in enhanced user interface and back-end functionality.
 
-### Business Data Analytics  
-### Analysis on Goodreads Dataset
+**Business Data Analytics**  **Analysis on Goodreads Dataset**
 - Utilized Tableau to analyze and visualize large datasets from Goodreads, uncovering insights on publishing trends, author productivity, and reader preferences.
 - Created interactive visualizations (bar charts, line charts, tree maps) to communicate key findings in an easily digestible format.
 
-### Salesforce Administration  
-### Unified Business Process Automation
+**Salesforce Administration**   **Unified Business Process Automation**
 - Automated business processes using Salesforce Flow, Process Builder, and Workflow Rules to reduce manual work, improve data accuracy, and accelerate decision-making.
 - Integrated Salesforce with ERP systems, email marketing tools, and payment platforms, ensuring seamless data flow and boosting operational efficiency.
 
 ---
 ## Core Skills
 
-**Application Development:**  
+**Application Development:**
 SDLC Methodologies, SQL, Python, JavaScript, HTML, Microsoft Office Suite
 
-**Data Engineering & Analytics:**  
+**Data Engineering & Analytics:**
 Data Pipelines, Quality Assurance, ETL, Data Warehousing, Cloud Services, Tableau, Excel, System Design Documentation, UAT, Integration Testing, Process Improvement
 
-**Data Management & Reporting:**  
+**Data Management & Reporting:**
 Data Integrity, Data Migration, Deduplication, Reports & Dashboards, KPIs, Data Visualization (Tableau, Power BI), Data Administration Tools, Data Audits
 
-**Business Analysis & Agile Methodologies:**  
+**Business Analysis & Agile Methodologies:**
 Stakeholder Management, Business/Functional Requirements Gathering, Gap Analysis, User Stories, Sprint Planning, Agile Scrum, Process Mapping, Jira, SaaS
 
-**Salesforce Platform:**  
+**Salesforce Platform:**
 Salesforce Lightning, Sales Cloud, Service Cloud, Marketing Cloud, Validation Rules, Workflow Rules, User Management, Profiles & Permissions, Security & Compliance, AppExchange Integration, Salesforce Automation, CRM
   
-**Collaboration & Communication:**  
+**Collaboration & Communication:**
 Cross-functional Team Collaboration, Client Relationship Management, Technical Documentation, Leadership & Mentorship
 
 ---
